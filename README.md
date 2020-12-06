@@ -10,5 +10,4 @@ GUI application to track the COVID-19 cases.
   ```
   pip install covid
   ```
-3.
-  tkinter
+3. tkinter
